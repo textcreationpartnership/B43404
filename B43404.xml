@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain proposalls in all humblenesse presented to the consideration of the honourable assembly of Parliament for considerable advance of monies, and augmentation of publick revenue for the future.</title>
+            <author>Marshall, Marmaduke.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43404</idno><idno type="EEBO-CITATION">489260593</idno>
+  <idno type="VID">208635</idno>
+  <idno type="EEBO-PROQUEST">2240881074</idno>
+  
+            <idno type="OCLC"> 489260593</idno>
+            <idno type="OCLC">ocn 489260593</idno>
+            <idno type="STC">Wing M746A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208635)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2955:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain proposalls in all humblenesse presented to the consideration of the honourable assembly of Parliament for considerable advance of monies, and augmentation of publick revenue for the future.</title>
+                  <author>Marshall, Marmaduke.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Marm. Marshall.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>On p. [2] is printed Marshall's application to Parliament for an appointment in the administration of his proposed scheme.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:208635:1"/>
+            <pb facs="tcp:208635:2"/>
+            <head>CERTAIN PROPOSALLS In all humblenesse Presented to the Consideration of the Honourable Assembly of PARLIAMENT, For Considerable advance of Monies, and augmentation of publick Revenue sor the future.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there is in these three Nations of <hi>England, Scotland</hi> and <hi>Ireland</hi> by the especial providence of Almighty God, manifold appearances of Suffi<g ref="char:EOLhyphen"/>ciency of plenty, in reference to all outward comfortable enjoyments in this life. So is there indeed a seeming superabounding store of Wealth and Treasure, demonstrably manifest to be instanced in visible excessive <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat quantities of <hi>Plate</hi> now wrought and used in <hi>England,</hi> and from hence sent over, both into <hi>Scotland,</hi> and <hi>Ireland;</hi> so that the vast proportions o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Silver converted</hi> into <hi>Plate,</hi> of all sorts, for all imaginable uses, (<hi>Viz. Tankerds, Cupps, Beakers, Bowles, Porringers, Sugger-Boxes, Spoons,</hi> all sorts and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zes of <hi>Plates, Salts, Dishes, Basons,</hi> and <hi>Ewers, Candle-stiks, Standishes, Ink hornes, Tobacco-Boxes, Heads</hi> for <hi>Canes, Watches</hi> and <hi>Watch-Cases, Kettles, Skilets, Preserving-Panns, Ladles, Cesterns, Flaggons, Baskets, Close-Stool-Pans, Chamber-Potts, Bed-Panns Perfuming-Potts, Gridirons, Chafing-Dishes, Tongs, Fire-Shovells, Andirons, Salvators, Plaister-Boxes,</hi> all sorts of <hi>Instruments</hi> for <hi>Chirurgeons, Spurrs, Sword Hilts, Buckles</hi> for <hi>Belts, Hafts</hi> for <hi>Knives,</hi> and indeed what not; In the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owses of <hi>Noble-men, Knightes, Esquires, Gentlemen</hi> of Estates, in <hi>Gold-Smiths</hi> Shopps, ready wrought for Use, and Sail: and also in <hi>Taverns, Inns, Ale-Houses, Vict<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al-Houses,</hi> and elsewhere,) is very exorbitant, vain, and superfluous, far exceed<g ref="char:EOLhyphen"/>ing (in the generality of able People only) all the said Persons Conditions, Estates, and Fortunes, in their severall qualifications.</p>
+            <p>For want of <hi>Bullion</hi> to supply the super abounding use of <hi>Plate</hi> as abovesaid, the current <hi>Coyn</hi> of the Nation, hath especially been of late years and stil is subject to very great diminution and waist by the <hi>Gold Smiths</hi> constant ordinary Practice, not only c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling out of the weightyest of it, but melting down vast proportions, and con<g ref="char:EOLhyphen"/>verting the same into <hi>Plate,</hi> whereby they bring in high advantage of profit to thems<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves, by so much of the said <hi>Coyn</hi> as they find weighty, by the rates and prices set for the Fashion, and Workmanship upon every Ounce, and by the Allay and Sod<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ler, used in working up the said <hi>Plate,</hi> and adding to it's wieght; but hereby the publick losse and detriment of the Common-Wealth, by causing so great diminution, and scarcity of <hi>Money,</hi> and consequently so great decay of Trade for want there<g ref="char:EOLhyphen"/>of, is grown very prejudicial; and of dangerous consequence.</p>
+            <p>There being imposition of <hi>Excise,</hi> upon several numerous Commodities, and in particular (amongst the rest) upon <hi>Lead, Tinn, Copper Plates,</hi> and all <hi>Silver Wyer;</hi> Now in regard of the urgent necessity for advance and supply of very great Summes of <hi>Money,</hi> to support the weighty; and defray the publick incident Charges una<g ref="char:EOLhyphen"/>voidable, requisite for preservation, and the security of the Common-Wealth's Peace and prosperity for the future; It is humbly offered to the grave and serious ap<g ref="char:EOLhyphen"/>probation and acceptance of the Honourable Assembly of <hi>Parliament,</hi> that a Bill may be forthwith prepared and presented, to passe into an Act for an imposition of <hi>Excise</hi> upon all sorts of <hi>Silver Plate</hi> whatsoever, which shall amount to the waight of half one Once in the piece, and so upward, either already wrought, or that shall be wrought for the future, imposing the rate of six pence upon every Ounce at the least: And that in order thereunto, all such Person, or Persons as are possessors, or proprietors of any Plate, be it more, or be it less, may be strictly enjoyned to bring it all in upon Oath, at, or before a certain time expresly to be limited unto some designed place, or places, fit and convenient for that purpose: there to pay the said <hi>Excise</hi> proportionably, according to the exact weight thereof, for the immediate use of the Common-Wealth; and that then also, every piece of <hi>Silver Plate</hi> so <hi>Excised</hi> shall have some distinguishing Stamp, or Mark set upon it, besides the Hall mark, and likewise be duly Registred, whereby it may be known to be <hi>Excised,</hi> and that it be provided in the said Bill (so to be prepared as aforesaid) in case of any Person, or Persons refusall herein, a clause of confiscation, and forfeiture of the <hi>Plate,</hi> except the Owner, or Owners, do either sell it unto the <hi>Gold-Smiths,</hi> or bring it into the <hi>Tower</hi> to be melted down and <hi>Coyned,</hi> which will be a means to make <hi>Money</hi> more ple<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tifull and advance Trade in the Nation, and consequently be accompanied with certain benefit, and profit to the <hi>State</hi> for the <hi>Mintage</hi> thereof.</p>
+            <p>In drawing up of the said Bill, a suitable Provision to be made also for time to come, that all sort and sizes of wrought <hi>Silver Plate</hi> whatsoever, amounting to the weight of half one Ounce the Piece, and upward, shall be so <hi>Excised</hi> as aforesaid, and receive in like manner the said publick distinguishing Stamp or Mark, and be duely Regi<g ref="char:EOLhyphen"/>stred before it be sould, upon the penalty of forfeiture, as aforesaid: and that at the weighing, marking, and Registring all such <hi>Plate,</hi> as is, or shall be wrought up for Sail, the said <hi>Gold Smith</hi> to pay the said <hi>Excise,</hi> due unto the State: and be moreover strictly enjoined, not to enhance the ordinary rate and price of <hi>Silver Plate</hi> unto the Buyer, above the proportionable value of the <hi>Excise</hi> he payes out of his own Purse: and if at any time, any <hi>Excised Plate</hi> shall be sold to the <hi>Gold Smith,</hi> which he shall sell again for old <hi>Plate,</hi> as he bought it, then <hi>Excise</hi> Money not to be demanded, or paid a second time, but in case it shall be melted, and wrought up anew, then onely to be <hi>Excised,</hi> and Marked Registred, before the Sail thereof, at the receipt of the Touch, and Hall mark, as aforesaid.</p>
+            <p>Whereas there is much <hi>Silver Plate,</hi> some sorts whereof, are parcell-guilded, and others richly guilded all over; It is humbly conceived requisite that Provision be al<g ref="char:EOLhyphen"/>so made in the said Bill for the bringing in of all such <hi>Plate,</hi> as aforesaid: and that an imposition of three Pence on the Ounce be set on that which is parcell guilded, more then is upon plain <hi>Silver Plate,</hi> that is, nine Pence the Ounce: and that which is double-guilded, six Pence on the Ounce more then upon plain <hi>Silver Plate,</hi> that is twelve Pence on the Ounce, which by reason of the great waist of <hi>Gold</hi> being so scarce in the Nation, is but moderate: and that if any <hi>Silver Plate,</hi> richly guilded, or parcell guilded <hi>Plate</hi> whatsoever, shall not, according to the said Provisions and appointments, from time to time be brought in, to be Weighed, <hi>Excised,</hi> Marked and Registred, as aforesaid, the same shall (after a certain time in the said Bill to be limited) become liable to confiscation and forfeiture by way of discovery, the one moie<g ref="char:EOLhyphen"/>ty, ot half part, to accrew unto the State, and the other moiety, or half part, to the discover<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or disoverers, for reward and encouragement, <hi>&amp;c.</hi>
+            </p>
+            <div type="part">
+               <head>An Additional <hi>PROPOSAL.</hi>
+               </head>
+               <p>THe great scaricty of <hi>Golden Coyn</hi> in the three Nations (as is humbly conceived) deservedly requireth your Honours serious reflection, and due consideration: that as our <hi>Gold</hi> hath been transported, to the losse of the publick Stock of the Nation, and general decay of Trade, so also hath it been, and is in too great measure convert<g ref="char:EOLhyphen"/>ed unto several things of unnecessary uses which might well be spared, especially in such times as these: as <hi>Bowles, Cupps,</hi> and several other <hi>Vessels, Chaines, Bodkins, Thimbles, Seales, Rings, Watches, Watch-Cases, Lockets,</hi> and <hi>Medalls, Tablets</hi> for <hi>Pictures, Handles</hi> for <hi>Fanns,</hi> &amp;c. It is therefore most humbly offered to the Honurable Assembly of <hi>Parliament,</hi> that all <hi>Gold,</hi> so converted and wrought up for any kind of use besides current <hi>Coyn,</hi> or that shall hereafter be so wrought, may in like manner as <hi>Silver Plate,</hi> have an imposition of <hi>Excise,</hi> set, at the rate of six Pence at least upon every Penny-weight, with the same Provisions and limitations as are mentioned in the foregoing <hi>Proposalls</hi> for <hi>Silver Plate:</hi> and the like Provision to be made, that the Owners may have liberty (within some certain time limited) either to sell all such <hi>Gold,</hi> so converted, to the <hi>Gold-Smiths,</hi> or to bring the same to the <hi>Mint</hi> to be <hi>Coyned</hi> for themselves; otherwise, being <hi>Vnexcised,</hi> and made out by way of discovery, to be confiscate, and forfeited, as in the foregoing <hi>Proposals</hi> is expressed. This imposediate of <hi>Excise</hi> on <hi>Gold,</hi> amounteth to ten Shillings upon the Ounce, which Ounce of <hi>Gold</hi> surmounteth the value of an whole pound weight of <hi>Silver.</hi>
+               </p>
+               <p>For the avoiding of any supposed hindrance or discouragement to Merchants, in reference to the importation of <hi>Bullion;</hi> It may be further provided also, that no <hi>Excise</hi> be put upon <hi>Bullion,</hi> before it be wrought into <hi>Plate:</hi> and that the <hi>Gold-Smiths</hi> do give no lesse price for <hi>Bullion</hi> to the Merchant, or for workmanship to the <hi>Silver-Smith,</hi> then formerly hath been accustomed to be given: and that there be no abatement made of the usual price of old <hi>Plate:</hi> so that the imposed rates of <hi>Excise</hi> in these particular <hi>Proposals,</hi> relating to <hi>Silver</hi> and <hi>Gold,</hi> (without burthening any poor mean Persons at all) reflects and wholly rests upon the Buyers only, men wealthy, or of competent Estates, and so best able to spare these small inconsiderable proportions, tending much to Gods glory, and the present and future good of their Countrey: especially being so, that it is imposed but once, and holding no equivalent proportion with the rate of <hi>Excise</hi> put upon other things indispensibly necessary for sustenta<g ref="char:EOLhyphen"/>tion of life: For instance; Every <hi>Barrell</hi> of strong <hi>Beer,</hi> payes two Shillings six Pence <hi>Excise</hi> (the price of the <hi>Barrell</hi> to the <hi>Brewer</hi> being ten Shillings) which amounts to five Shillings in the pound, and moreover is a continued charge.</p>
+               <p>
+                  <hi>These</hi> Proposalls <hi>are in all humblenesse submitted to your Honours grave Wisdomes, and Iudgements to determine of.</hi>
+               </p>
+               <closer>
+                  <signed>By your Honours most humble Servant, a zealous well-wisher to the publick. MARM- MARSHALL.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="license">
+            <pb facs="tcp:208635:3"/>
+            <pb facs="tcp:208635:3"/>
+            <head>Dic Jovis 14 <hi>Martii,</hi> 1643.</head>
+            <p>IT is this day Ordered by the Commons Assembled in Parliament, that the Committee for the Navy, do receive such propositions as shall be presented unto them for raising of Moneyes, for the service of the State: And if the Propositions be such, as will produce advantage to the Kingdome, that then the Parties that propound the same, shall be imployed, and well rewarded for their pains and industry.</p>
+            <closer>
+               <signed>Hen. Elsing Cler. Par. D. Com.</signed>
+            </closer>
+            <closer>A True Coppy examin'd.</closer>
+         </div>
+         <div type="petition">
+            <head>
+               <hi>To the Supream Power, the PARLIAMENT</hi> Of the Common-Wealth of England, <hi>&amp;c.</hi> The Humble <hi>Petition</hi> of <hi>Marmaduke Marshall, Gent.</hi> on behalf of himself, and others interested</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat by an <hi>Order</hi> of this present <hi>Parliament</hi> bearing date the 14 of <hi>March.</hi> 1643. the then <hi>Committee</hi> of the <hi>Navy</hi> were impowered to receive Propositions for raising Monies for service of the <hi>State,</hi> and for such of them as should produce advantage, the Parties propounding should be imployed, and well rewarded for their pains and industry.</p>
+            <p>That the <hi>Petitioner</hi> hath <hi>Certain Proposals</hi> for present advance of considera<g ref="char:EOLhyphen"/>ble summs of Money, in all humbleness to be presented, and submit<g ref="char:EOLhyphen"/>ted to the grave Wisdomes and Iudgement of this Honourable As<g ref="char:EOLhyphen"/>sembly; and if the said proposed Overtures, shall merit your Honours acceptance, and approbation, to be made use of, to passe into an <hi>Act</hi> for putting the same in execution.</p>
+            <p>It is most humbly prayed, that in pursuance of the abovemen<g ref="char:EOLhyphen"/>tioned <hi>Order,</hi> (a Copy whereof is hereunto annexed) your Honours will be pleased to allott and appoint such competent meet reward unto some few interested per<g ref="char:EOLhyphen"/>sons, and also such imployments, and sallaries in the said service as by your Honours shall be deemed suitable for them, and according as they shall be found and appro<g ref="char:EOLhyphen"/>ved faithfull trusty men, qualifyed &amp; capable to perform and discharge their respective duties therein: and that the Petitioner may have the place or office of Chiefe Register in that Service with sallary suitable for that im<g ref="char:EOLhyphen"/>ployment conferred upon him.</p>
+            <closer>
+               <signed>
+                  <hi>And (as in duty bound) he shall euer pray,</hi> &amp;c. MARM. MARSHALL.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
